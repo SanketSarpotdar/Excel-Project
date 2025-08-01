@@ -1,0 +1,15 @@
+The dataset, Vrinda Store Sales Report, contains detailed transactional and customer information for an online fashion and apparel store.
+It includes 21 attributes covering order details, customer demographics, product categories, sales amounts, and shipping information.
+The data can be used for sales analysis, customer segmentation, and business performance tracking.
+
+Key Columns:
+
+Order ID / Cust ID – Unique identifiers for orders and customers.
+Gender / Age / Age group – Customer demographic details.
+Date / Month – Transaction date and month for time-series analysis.
+Status – Order delivery status (Delivered, Canceled, Returned).
+Channel – E-commerce platform used (e.g., Amazon, Myntra, Ajio).
+Category / Size / Qty – Product details.
+Amount – Sales revenue for the transaction.
+Ship-city / Ship-state – Customer shipping location.
+B2B – Flag indicating whether the order was a business-to-business transaction.
